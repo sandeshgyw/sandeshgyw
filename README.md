@@ -1,29 +1,68 @@
 <h1 align="center">Hi 👋, I'm Sandesh Gyawali</h1>
-<h3 align="center">A proficient Software Engineer from Nepal</h3>
+<h3 align="center">Software Engineer | Systems, Backend & Real-World Applications</h3>
 
-- 🔭 I’m currently working on **a bunch of flutter projects**
-
-- 🌱 I’m currently learning **svelte, stripe,blockchain**
-
-- 💬 Ask me about **flutter, firebase,javascript,dart**
-
-- 📫 How to reach me **sandeshgyawali@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandesh-gyawali-666456199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandesh-gyawali-666456199/" height="30" width="40" /></a>
+<p align="center">
+CS Graduate Student at Texas State University (MSCS)  
+Electronics & Communication Engineering background
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+### 👨‍💻 About Me
 
+I enjoy building software that is actually used — and then figuring out why it breaks.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeshgyw&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sandeshgyw" /></p>
+My work has ranged from production mobile applications and backend APIs to VR research systems and networked programs. I’m especially interested in reliability, debugging real failures, and systems where software interacts with hardware or real users.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshgyw&show_icons=true&locale=en&theme=dracula" alt="sandeshgyw" /></p>
+Currently I:
+- Develop VR research software used in live aphasia therapy experiments
+- Maintain deployed applications with real users and real feedback
+- Work with Linux environments, networking, and backend services
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshgyw&theme=dracula" alt="sandeshgyw" /></p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sandeshgyaQ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sandeshgyaQ" /></a></p><br><br>
+### 🚀 Notable Work
+
+**Entrance Hub Nepal (Play Store – 1000+ downloads)**  
+- Built and maintained a production exam-simulation app
+- Implemented client-side caching reducing Firebase reads from ~30,000/day to <1,000/day
+- Diagnosed crashes and released production fixes based on user reports
+
+**VR Aphasia Research Software**
+- Developed VR interaction system using OpenXR/Vizard on HTC Vive
+- Implemented gaze tracking, dwell time, and reaction time recording
+- Debugged runtime failures and added logging to prevent experiment data loss
+
+**Network & Systems**
+- Implemented concurrent TCP server in C++ using socket programming
+- Deployed Node.js backend on a Linux server behind an Nginx reverse proxy
+- Diagnosed communication and CORS issues in production environment
+
+---
+
+### 🛠 Tech I Use
+
+**Languages:**  
+Python • C++ • Java • JavaScript • SQL • Dart
+
+**Backend & APIs:**  
+Node.js • Express.js • REST APIs • Firebase
+
+**Systems & Networking:**  
+Linux • TCP/IP • Sockets • Debugging • Logging • Nginx
+
+**Databases:**  
+Cloud Firestore • MongoDB • SQLite
+
+**Tools:**  
+Git • Command Line • Android Studio • Xcode
+
+---
+
+### 📫 Contact
+Email: sandeshgyawali@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sandesh-gyawali-666456199/
+
+---
+
+> I like working on problems where software reliability matters — systems that people depend on, not just demos.
