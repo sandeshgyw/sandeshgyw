@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh Gyawali</h1>
-<h3 align="center">A proficient Flutter developer from Nepal</h3>
+<h3 align="center">A proficient Software Engineer from Nepal</h3>
 
 - 🔭 I’m currently working on **a bunch of flutter projects**
 
