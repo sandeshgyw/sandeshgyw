@@ -8,9 +8,9 @@ Electronics & Communication Engineering background
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I enjoy building software that is actually used — and then figuring out why it breaks.
+I enjoy building software that is actually used : and then figuring out why it breaks.
 
 My work has ranged from production mobile applications and backend APIs to VR research systems and networked programs. I’m especially interested in reliability, debugging real failures, and systems where software interacts with hardware or real users.
 
@@ -21,7 +21,7 @@ Currently I:
 
 ---
 
-### 🚀 Notable Work
+### Notable Work
 
 **Entrance Hub Nepal (Play Store – 1000+ downloads)**  
 - Built and maintained a production exam-simulation app
@@ -40,7 +40,7 @@ Currently I:
 
 ---
 
-### 🛠 Tech I Use
+### Tech I Use
 
 **Languages:**  
 Python • C++ • Java • JavaScript • SQL • Dart
@@ -59,7 +59,7 @@ Git • Command Line • Android Studio • Xcode
 
 ---
 
-### 📫 Contact
+### Contact
 Email: sandeshgyawali@gmail.com  
 LinkedIn: https://www.linkedin.com/in/sandesh-gyawali-666456199/
 
