@@ -28,6 +28,8 @@ Currently I:
 - Implemented client-side caching reducing Firebase reads from ~30,000/day to <1,000/day
 - Diagnosed crashes and released production fixes based on user reports
 
+  https://play.google.com/store/apps/details?id=com.entrancehubnepal.entrance_hub&pli=1
+
 **VR Aphasia Research Software**
 - Developed VR interaction system using OpenXR/Vizard on HTC Vive
 - Implemented gaze tracking, dwell time, and reaction time recording
@@ -62,6 +64,7 @@ Git • Command Line • Android Studio • Xcode
 ### Contact
 Email: sandeshgyawali@gmail.com  
 LinkedIn: https://www.linkedin.com/in/sandesh-gyawali-666456199/
+Upwork: https://www.upwork.com/freelancers/~01ad0f51a955c9c59b?mp_source=share
 
 ---
 
