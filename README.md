@@ -78,22 +78,4 @@ Node.js · FastAPI · GCP · DigitalOcean · REST APIs · MongoDB · MySQL · Fi
 OpenAI API · Gemini LLM · RAG · OpenCV · Pandas · NumPy
 
 **Mobile:**
-Flutter · React ## Skills
-
-**Languages:**
-C · C++ · Python · Rust (learning) · TypeScript · Dart · Bash · SQL
-
-**Robotics & Embedded:**
-Arduino · NodeMCU · IR/BLE/Ultrasonic/PIR sensors · GPIO · Relay
-
-**Systems:**
-Linux · OpenXR · Real-time systems · Socket programming · Nginx · VHDL · 8086 Assembly
-
-**Backend & Cloud:**
-Node.js · FastAPI · GCP · DigitalOcean · REST APIs · MongoDB · MySQL · Firebase
-
-**AI & Data:**
-OpenAI API · Gemini LLM · RAG · OpenCV · Pandas · NumPy
-
-**Mobile:**
 Flutter · React · Play Store deployment · App Store deployment
